@@ -7,4 +7,6 @@ your team wants to understand how casual riders and annual members use Cyclistic
 your team will design a new marketing strategy to convert casual riders into annual members.
 
 
-## Document Description
+## TOP RECOMMENDATION
+Create a subscripion weekend pass for casual riders.
+
